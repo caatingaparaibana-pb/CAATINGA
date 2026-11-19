@@ -1,6 +1,6 @@
 window.PORTAL_CONFIG = {
   usuarioGithub: "caatingaparaibana-pb",
-  linkDrive: "https://drive.google.com/drive/folders/1bOrmB_d2jKdTihEjA5f0c2qVO-qaqHo0",
+  linkDrive: "https://drive.google.com/drive/folders/1bOrmB_d2jKdTihEjA5f0c2qVO-qaqHo0?usp=sharing",
   linkInstagram: "",
   repositorios: {
     fauna:     "JOGO-DA-MEM-RIA-FAUNA",
